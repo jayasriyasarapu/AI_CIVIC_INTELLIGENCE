@@ -1,0 +1,6 @@
+{
+  "name": "SecureAuth - Firebase Authentication & Verification",
+  "description": "Secure user authentication, registration, email verification, and profile management powered by Firebase Auth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
